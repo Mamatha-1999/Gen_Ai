@@ -1,0 +1,138 @@
+M A M A T H A B S 
+D A T A S C I E N T I S T    mamathabs246@gmail.com
+                                                  +91 9380063012  
+Yeshwantapura, Bangalore  
+ 
+ 
+ 
+ 
+SUMMARY  
+Data Scientist with 3+ years of experience solving end -to-end machine learning and data science problems  
+for retail clients. Seeking a challenging  role that allows me to apply my expertise in Data science, Machine  
+learning,  Artificial  intelligence,  Predictive  modeling,  Computer  vision,  Natural  language  processing.  
+ 
+WORK  EXPERIENCE  
+Glintsoft Infot ech PVT LTD.  
+EDUCATION  
+Bangalore  University  
+Bachelor  of Computer  Applications  -2020 
+SKILLS  
+Python  
+Numpy  
+Pandas  
+Matplotlib  
+Seaborn  
+NLP 
+ 
+MACHINE  LEARNING  
+Linear  Regression  
+Decision Tree  
+Random  Forest  
+K-Means  
+Sk-learn  
+Navie  bayes  
+ 
+TOOLS  
+GitHub  
+JIRA 
+ 
+DEEP  LEARNING  
+ANN  
+CNN  
+Pytorch  
+Keres  
+Flask  3+ years  of experience  as a Data  scientist.  Developed  end to end 
+Machine  learning  and NLP models.  
+Developed  and implemented  machine  learning  models  to solve  
+complex  business  problems.  This involves  selecting  appropriate  
+algorithms,  feature  engineering,  model  training,  evaluation,  and 
+optimization.  
+Responsible  for Pre-processing  and cleaning  raw data,  ensuring  its 
+quality,  completeness,  and integrity.  
+Handle  missing  data,  outliers,  and inconsistencies  to measure  reliable  
+analysis  and modelling  results.  
+Visualized  data  insights  using  Python  libraries  like Matplotlib  and 
+Seaborn  for more  interactive  dashboards.  
+Designed  and deploy  machine  learning  models  using  algorithms  like 
+Random Forest, Responsible for Train and fine -tuning machine learning  
+models  using  appropriate  algorithms  and techniques.  
+Evaluated  the model  performance,  identify  areas  for improvement,  
+and implemented  necessary  optimizations.  
+Responsible  for Train  and fine-tune  machine  learning  models  using  
+appropriated  algorithms  and techniques.  
+Collaborated  with  data  engineers  to design  and optimize  data  
+pipelines  for efficient  data  ingestion,  transformation,  and storage.  
+Collaborated  with  cross -functional  teams,  including  business  
+stakeholders,  engineers  and domain  experts,  to define  business  
+objectives,  formulate  data -driven  hypothesis  and develop  solutions  
+that address  specific  needs.  
+Project 1: Customer support chatbot  
+Description:  Introducing  GenAI -powered  chatbots,  designed  to 
+revolutionize customer service! Our AI chatbots offer 24/7 availability,  
+enabling businesses to respond to customer queries anytime, anywhere.  
+This frees up human agents to focus on more complex issues, improving  
+overall  efficiency.  
+
+Tools and techniques  Roles  and Responsibilities:  
+ 
+AI Development  
+Natural  Language  process  
+LangChain  
+OpenAI  
+Hugging Face Spaces  
+Python  Designed  and develop  the application's  frontend  using  streamlit  
+and backend langchain  
+Integrated LangChain for language understanding and generation  
+Implemented  OpenAI  and Hugging  Face  Spaces  for advanced  
+natural language processing  
+Tested  and optimized  the application  for accuracy  and 
+performance.  
+ 
+Project 2: Business Objective: Loyalty Customer Churn Prediction  
+ 
+Description: This project aims to develop a classification model to predict customer subscription to a loyalty  
+card  program  in a retail  setting.  The model  identifies  patterns  and factors  influencing  the likely  hood  of 
+customers subscribing to the loyalty program. the predictive model enables retailers to target potential  
+subscribers  with  tailored  marketing  strategies  and incentivize  subscription  to enhance  customer  retention  
+and loyalty  
+ 
+Tools and techniques  Roles and Responsibilities:  
+ 
+Decision tree  
+Random forest  
+XG-boost  
+Numpy  
+pandas  Gathered  and preprocessed  pertinent  customer  data,  ensuring  
+consistency  and high  quality.  
+Conducted  data  cleaning,  transformation,  and feature  extraction  for 
+dataset  preparation.  
+Segment  data  into training  and testing  sets;  utilize  cross -validation  
+methods  to evaluate  model  performance.  
+Fine -tune  model  parameters  and hyperparameters  to optimize  key 
+performance  metrics  like accuracy,  precision,  and recall.  
+ 
+Project 3: Customer Emotion Detection through Review Analysis  
+ 
+Description: This  project aims to analyze customer sentiments expressed in reviews to understand their  
+emotions  and sentiments  towards  products/services.  Utilizing  Natural  Language  Processing  (NLP)  
+techniques,  sentiment  analysis  models  will be built  to classify  reviews  and extract  emotional  cues,  aiding  
+in enhancing  customer  satisfaction  and service  improvements  
+ 
+Tools and techniques  
+NLTK  
+Natural  language  processing  
+Sea born  
+Matplotlib  
+Lemmatization  
+TF-IDF 
+Random forest  Roles  and Responsibilities:  
+Collected  and preprocessed  customer  review  data  from  various  
+sources.  
+Developed  and implemented  sentiment  analysis  models  using  NLP 
+techniques  
+Created  and trained  machine  learning  models  to classify  emotions  in 
+customer  reviews.  
+Evaluated  the model  performance  and refine  algorithms  for accurate  
+emotion  detection.  
+Collaborated  with  business  stakeholders  to interpret  results  and 
+implement  actionable  strategies  based  on emotional  insights.  
